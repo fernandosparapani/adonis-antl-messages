@@ -40,8 +40,8 @@
   "required_without_any": "{{field}} é obrigatório quando algum destes: ({{argument}}) estiver presente.",
   "same": "{{field}} e {{argument.0}} devem ser iguais.",
   "starts_with": "{{field}} deve começar com as letras: ({{argument}}).",
-  "string": "{{field}} deve ser uma STRING.",
+  "string": "{{field}} deve ser um texto.",
   "under": "{{field}} precisa ser abaixo de {{argument.0}}.",
-  "unique": "{{field}} já existe e precisa ser único.",
+  "unique": "{{field}} já está em uso, escolhe um diferente.",
   "url": "URL inválida."
 }
